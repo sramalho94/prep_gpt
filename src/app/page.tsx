@@ -1,4 +1,4 @@
-import StartForm from '@/components/StartForm'
+import StartForm from '../components/StartForm'
 import Image from 'next/image'
 
 export default function Home() {
